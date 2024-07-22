@@ -23,7 +23,33 @@ function FahrenheitTo(f)
     console.log(c);
 }
 
-FahrenheitTo(86);
+//FahrenheitTo(86);
+
+{const data = 10;
+ //   console.log(data);
+}
+
+const data = 7;
+//console.log(data);
+
+
+
+//Exercises – 03
+
+function fact(x)
+{
+    var fact = 1;
+    for(let i = 1;i<=x;i++)
+    {
+        fact *=i;
+    }
+
+    return fact;
+}
+
+
+////Exercises – 04
+
 
 
 
